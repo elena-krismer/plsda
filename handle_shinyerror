@@ -1,0 +1,4 @@
+deploy shiny app with bioconducter
+
+library(BiocManager)
+options(repos = BiocManager::repositories())
